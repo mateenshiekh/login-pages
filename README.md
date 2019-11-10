@@ -16,4 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt text](/images/loginpages.jpg?raw=true "O"){:height="50%" width="50%"}
+<!-- ![Alt text](/images/loginpages.jpg?raw=true "Login Page") -->
+<img src="/images/loginpages.jpg" width="48">
