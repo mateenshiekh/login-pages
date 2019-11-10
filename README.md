@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <!-- ![Alt text](/images/loginpages.jpg?raw=true "Login Page") -->
-<img src="/images/loginpages.jpg" width="48">
+<img src="/images/loginpages.jpg" width="200">
