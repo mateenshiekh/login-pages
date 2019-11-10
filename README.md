@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt text](/images/loginpages.jpg?raw=true "Optional Title")
+![Alt text](/images/loginpages.jpg?raw=true | height=100)
